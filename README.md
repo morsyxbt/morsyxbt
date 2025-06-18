@@ -1,6 +1,6 @@
 <!-- Animated Typing Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+Morsy's+GitHub;A+Learning+Dev" alt="Exploring web3 and Devops worlds" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+To+Morsy's+GitHub;A+Learning+Dev" alt="Exploring web3 and Devops worlds" />
 </p>
 
 ---
@@ -8,7 +8,10 @@
 ### About Me
 
 - CT researcher contributor
-- And A Learning Web3 Developer
+- A Learning Web3 Developer
+- I Build Cool Web3 Tools
+- I Break Down Complex Blockchain Nodes
+- 
 
 ---
 

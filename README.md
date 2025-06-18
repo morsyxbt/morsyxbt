@@ -1,7 +1,6 @@
 <!-- Animated Typing Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub;I+Code+Unique" <img src="..." alt="Exploring web3 and Devops worlds" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub;I+Code+Unique"
 </p>
 
 ---

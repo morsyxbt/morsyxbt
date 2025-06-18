@@ -3,6 +3,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Welcome+To+My+GitHub;I+Code+Unique" />
 </p>
 
+<p align="center">
+  <a href="https://x.com/morsyeth">
+    <img src="https://img.shields.io/badge/Follow-%40MorsyETH-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on X">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=morsyxbt&color=brightgreen&style=flat" alt="Profile Views" />
+</p>
+
+
 ---
 
 ### About Me

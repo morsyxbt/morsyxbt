@@ -20,9 +20,11 @@
 
 ###  Currently Learning
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-![WSL](https://img.shields.io/badge/-WSL-black?style=flat-square&logo=windows)
+![Web3](https://img.shields.io/badge/-Web3-black?style=flat-square&logo=web3dotjs&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=flat-square&logo=ethereum)
+![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-black?style=flat-square&logo=solidity)
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-black?style=flat-square&logo=bitcoin)
 
 ---
 

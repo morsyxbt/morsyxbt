@@ -17,6 +17,8 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Web3](https://img.shields.io/badge/-Web3-black?style=flat-square&logo=web3dotjs&logoColor=white)
 ![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-black?style=flat-square&logo=solidity)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+
 
 ---
 

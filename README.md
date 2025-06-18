@@ -14,7 +14,7 @@
 
 ###  Pinned Projects
 
-- will add some stuff here soon
+- Soon
 ---
 
 ###  What Am I Learnng

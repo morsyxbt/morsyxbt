@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/mosyxbt">
-    <img src="https://img.shields.io/twitter/follow/morsyxbt">
+  <a href="https://x.com/morsyxbt">
+    <img src="https://img.shields.io/twitter/follow/Morsyxbt">
   </a>
 </p>
 

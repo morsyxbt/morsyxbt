@@ -4,14 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/morsyeth">
-    <img src="https://img.shields.io/badge/Follow-%40MorsyETH-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on X">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=zunxbt&color=brightgreen" alt="Profile Views">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=morsyxbt&color=brightgreen&style=flat" alt="Profile Views" />
-</p>
 
 
 ---

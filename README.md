@@ -24,4 +24,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=morsyxbt&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morsyxbt&layout=compact&theme=radical" />
-</p>   don't judge me, this will grow ??
+</p>   this shall grow.

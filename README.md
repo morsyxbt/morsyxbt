@@ -1,6 +1,6 @@
 <!-- Animated Typing Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=welcome+to+Morsy's+github;a+learning+Web3+developer%26+i+build+cool+stuff" alt="Exploring web3 and Devops worlds" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+Morsy's+GitHub;i+build+cool+stuff" alt="Exploring web3 and Devops worlds" />
 </p>
 
 ---

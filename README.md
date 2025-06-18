@@ -21,6 +21,8 @@
 ###  Currently Learning
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+![WSL](https://img.shields.io/badge/-WSL-black?style=flat-square&logo=windows)
 
 ---
 

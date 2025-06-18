@@ -4,10 +4,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zunxbt&color=brightgreen" alt="Profile Views">
+  <a href="https://x.com/mosyxbt">
+    <img src="https://img.shields.io/twitter/follow/morsyxbt">
+  </a>
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bigray0x&color=brightgreen" alt="Profile Views">
+</p>
 
 ---
 

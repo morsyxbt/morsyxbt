@@ -22,9 +22,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Web3](https://img.shields.io/badge/-Web3-black?style=flat-square&logo=web3dotjs&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=flat-square&logo=ethereum)
 ![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-black?style=flat-square&logo=solidity)
-![Bitcoin](https://img.shields.io/badge/-Bitcoin-black?style=flat-square&logo=bitcoin)
 
 ---
 

@@ -9,9 +9,7 @@
 
 - CT researcher contributor
 - A Learning Web3 Developer
-- I Build Cool Web3 Tools
-- I Break Down Complex Blockchain Nodes
-- 
+- I Build Cool Web3 Tools & Stuff
 
 ---
 

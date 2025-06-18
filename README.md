@@ -19,7 +19,7 @@
 ---
 
 ###  Currently Learning
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)

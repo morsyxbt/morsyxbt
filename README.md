@@ -20,9 +20,7 @@
 
 ###  Currently Learning
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 
 ---
 
